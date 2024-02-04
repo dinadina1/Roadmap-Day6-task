@@ -10,9 +10,18 @@ class Person{
     this.occupation=occupation;
 }
 getname(){
-    return `Hii I'm ${this.name}. I have done my ${this.qualification} degree in ${this.college} and I am also ${this.nationality} citizen. My age is ${this.age} and currently i am a ${this.occupation}.`;
+    return `Hii I'm ${this.name}. 
+I have done my ${this.qualification} degree in ${this.college} and I am also ${this.nationality} citizen.
+My age is ${this.age} and currently i am a ${this.occupation}.`;
 }
 }
-var p = new Person("Dinakaran","22","BCA","Indian","Indo-American College","student");
-console.log(p.getname());
+let person_det = new Person("Dinakaran","22","BCA","Indian","Indo-American College","student");
+console.log(person_det.getname());
 
+/*
+Result:
+-------
+Hii I'm Dinakaran. 
+I have done my BCA degree in Indo-American College and I am also Indian citizen.
+My age is 22 and currently i am a student.
+*/
