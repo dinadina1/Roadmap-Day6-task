@@ -26,7 +26,7 @@ class Circle{
     }
 }
 
-var result=new Circle(1.0,"Red");
+const result=new Circle(1.0,"Red");
 console.log(`Old ${result.get()}`);
 
 result.changeRadius=2.0;

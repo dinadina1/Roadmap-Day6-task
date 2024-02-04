@@ -15,7 +15,7 @@ I have done my ${this.qualification} degree in ${this.college} and I am also ${t
 My age is ${this.age} and currently i am a ${this.occupation}.`;
 }
 }
-let person_det = new Person("Dinakaran","22","BCA","Indian","Indo-American College","student");
+const person_det = new Person("Dinakaran","22","BCA","Indian","Indo-American College","student");
 console.log(person_det.getname());
 
 /*
