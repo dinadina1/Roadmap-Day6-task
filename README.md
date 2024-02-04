@@ -3,7 +3,7 @@
 <p>Classes are like blueprints for creating objects. They define how objects should be structured and what they can do.</p>
 <h3>Object:</h3>
 <p>Objects are like containers that can hold data (properties) and functions (methods).</p>
-<hr>
+<hr><br>
 
 <h2>Questions</h2>
 <p>1. To print Movie title,studio and rating(if no rating print PG as default)</p>
@@ -21,6 +21,7 @@ and declared getPG method to get Array instances and print PG rated movies.</p>
 
 <p>4. In script3.js I declared Uberprice Class for calculating Uber price. In cost for Basefare is Rs.50 and Rs.10 per km. If passenger journy within 20 km basefare Rs.50 will not be calculated. or Passenger journy more 20km basefare Rs.50 will be calculated. </p>
 
+<br>
 <h2>Screenshots:</h2>
 <p>Script.js:</p>
 <img src="./images/screenshot1.png" alt="script.js">
