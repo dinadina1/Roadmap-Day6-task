@@ -3,6 +3,8 @@
 <p>Classes are like blueprints for creating objects. They define how objects should be structured and what they can do.</p>
 <h3>Object:</h3>
 <p>Objects are like containers that can hold data (properties) and functions (methods).</p>
+<h3>Constructor:</h3>
+<p>The constructor() method is a special method for creating and initializing objects created within a class.</p>
 <hr><br>
 
 <h2>Questions</h2>
