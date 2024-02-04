@@ -35,3 +35,12 @@ result.changecolor="Blue";
 console.log(`Modified ${result.get()}`);
 console.log(result.getArea());
 console.log(result.getCircumference());
+
+/*
+Result:
+-------
+Old Circle radius is 1 and color is Red.
+Modified Circle radius is 2 and color is Blue.
+The Area of Circle is 12.56
+The Circumference of Circle is 12.56
+*/
